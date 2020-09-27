@@ -1,0 +1,6 @@
+Git: software que nos permite organizar y llevar un control de versiones del código de trabajo, además e un sistema 
+distribuido, es open source y se adapta a todo tipo de proyectos. Permite fusionar archivos y guardan una línea de tiempo 
+a lo largo de todo el proyecto.
+GitHub: es una plataforma de desarrollo colaborativo (red social de desarrolladores) en la nube para crear repositorios 
+remotos, que puedan ser accesibles desde cualquier lugar. No es solo para desarrolladores, ya cualquier persona que quiera 
+administrar su proyecto y trabajar de forma colaborativa también lo puede utilizar.
